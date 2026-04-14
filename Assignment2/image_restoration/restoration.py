@@ -1,6 +1,6 @@
 # ==========================================
-# Name: Ritik Sharma
-# Roll No: 2301010342
+# Name: Sonu Bharti
+# Roll No: 2301010323
 # Course: Image Processing & Computer Vision
 # Unit: Image Restoration
 # Assignment: Noise Modeling and Image Restoration
